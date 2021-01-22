@@ -1,4 +1,5 @@
 #Note: work in progress, does not yet cover all variables.
+#Requires data2 df
 
 #load required packages
 library(dplyr)
